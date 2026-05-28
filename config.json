@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderponnect",
+        "uuid": 19163165,
+        "checksum": "1i35aa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
