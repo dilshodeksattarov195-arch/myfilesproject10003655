@@ -1,0 +1,9 @@
+body { background: #dbe553; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 25px; display: flex; }
+.block-router-0 { color: #140469; font-size: 19px; margin-bottom: 5px; }
+.block-metrics-1 { color: #c8df69; font-size: 18px; margin-bottom: 5px; }
+.block-logger-2 { color: #46260a; font-size: 12px; margin-bottom: 5px; }
+.block-uploader-3 { color: #b95b4a; font-size: 20px; margin-bottom: 5px; }
+.block-metrics-4 { color: #226b84; font-size: 20px; margin-bottom: 5px; }
+.block-search-5 { color: #a35cd6; font-size: 18px; margin-bottom: 5px; }
+.block-database-6 { color: #610195; font-size: 16px; margin-bottom: 5px; }
